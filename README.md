@@ -3,9 +3,9 @@
 
 # PBIX samples with data sources
 
-- [Filled Map - Egypt Governorate.](https://github.com/melqassas/PowerBI/tree/master/Filled%20Map%20-%20Egypt%20Governorates)
-- [Filled Map - Saudi Arabia Provinces.](https://github.com/melqassas/PowerBI/tree/master/Filled%20Map%20-Saudi%20Arabia%20Provinces)
-- [Calculate Project Status In Power BI.](https://github.com/melqassas/PowerBI/tree/master/Calculate%20Project%20Status%20In%20Power%20BI)
+- [Filled Map - Egypt Governorate.](https://github.com/YusraEjaz94/PowerBI/tree/main/Filled%20Map%20-%20Egypt%20Governorates)
+- [Filled Map - Saudi Arabia Provinces.](https://github.com/YusraEjaz94/PowerBI/tree/main/Filled%20Map%20-Saudi%20Arabia%20Provinces)
+- [Calculate Project Status In Power BI.](https://github.com/YusraEjaz94/PowerBI/tree/main/1.%20Calculate%20Project%20Status%20In%20Power%20BI)
 
 # See Also
 
