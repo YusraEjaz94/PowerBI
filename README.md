@@ -1,4 +1,5 @@
-![PBIX samples with data sources for Power BI on GitHub-min]([https://user-images.githubusercontent.com/49816567/77915797-be399500-72a0-11ea-868f-4ffe17632dde.png](https://thoughtless-emerald-5a8yuhk37z.edgeone.app/github.png))
+![PBIX samples with data sources for Power BI on GitHub-min](https://thoughtless-emerald-5a8yuhk37z.edgeone.app/github.png)
+
 
 # PBIX samples with data sources
 
